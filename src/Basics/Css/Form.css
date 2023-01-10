@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Prosto+One&display=swap');
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Prosto One', cursive;
+  background-color: transparent;
+  text-shadow: 0 2px 2px black;
+}
+.Cointainer{
+  width: 100%;
+    height: 100vh;
+    background-color: #8e44ad;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.input {
+  width: 50%;
+    padding: 10px 20px;
+    border: none;
+    outline: none;
+    margin: 20px 0;
+    text-align: center;
+
+}
+.button{
+  line-height: 1.5rem;
+    padding: 0 20px;
+    background-color: #9b59b6;
+    outline: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+    cursor: pointer;
+
+}
+/* div {
+  width: 100%;
+  height: 100vh;
+  background-color: #8e44ad;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  width: 50%;
+  padding: 10px 20px;
+  border: none;
+  outline: none;
+  margin: 20px 0;
+  text-align: center;
+}
+
+button {
+  line-height: 2px;
+  padding: 0 20px;
+  background-color: #9b59b6;
+  outline: none;
+  border-radius: 5px;
+  text-transform: uppercase;
+  cursor: pointer;
+} */

@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Prosto+One&display=swap');
+.Css_import{
+  background-color: red;
+  font-family: 'Prosto One', cursive;
+}
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.heading_style{
+  font-family: 'Prosto One', cursive;
+  font-size: 1rem;
+
+
+}
+.cards{
+  display: flex;
+
+}
+
+.card__img{
+  height:10rem;
+
+
+}
+
+
+.hooks{
+  font-family: 'Prosto One', cursive;
+  text-align: center;
+  padding: 2rem;
+
+
+}
